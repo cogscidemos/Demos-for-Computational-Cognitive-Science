@@ -16,7 +16,7 @@ layout: default
 	<li>Introduction to python by Tom McCoy</li>
 	<ul>
 		<li>Overview of basic Python commands, using the running example of developing algorithms to describe stress assignment in various languages</li>
-	<ul>
+	</ul>
 </ul>
 
 <h2>Bayesian modeling</h2>
